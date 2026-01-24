@@ -1,0 +1,11 @@
+@media screen and (min-width: 768px) { 
+
+    .releases {
+        font-size: 16px;
+      }
+
+    .all-text {
+        font-family: 'Times New Roman', Times, serif
+      }
+    
+}
